@@ -1,46 +1,71 @@
-<h1 align="center">Merhaba 👋, ben İbrahim Aydın</h1>
-<h3 align="center">Frontend Developer | React.js & Mobile App Developer (React Native)</h3>
+# Hi 👋 I'm İbrahim Aydın
 
-<p align="left">🚀 Hakkımda:</p>
+💻 Full Stack Developer  
+🎓 Computer Engineering Graduate – Erciyes University  
+📍 Kayseri, Türkiye  
 
-- 🌱 Şu anda öğreniyorum: **React Native, Next.js , ASP.net**
-- 🧠 Güçlü olduğum konular: **JavaScript, React, Responsive Design, Git**
-- 👨‍💻 Projelerimi GitHub'da inceleyebilirsin: [github.com/ibrahimaydin1](https://github.com/ibrahimaydin1)
-- 🔗 LinkedIn: [linkedin.com/in/ibrahimaydin1](https://linkedin.com/in/ibrahimaydin1)
-- 📫 Bana ulaş: **ibrahimaydinn38@gmail.com**
+I develop modern web applications using **C#, ASP.NET MVC, JavaScript and React**.  
+I enjoy building full stack projects and continuously improving my software development skills.
 
 ---
 
-<h3>🛠️ Kullandığım Teknolojiler:</h3>
+## 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,nodejs,figma,git,github,vscode,androidstudio" />
-</p>
+**Backend**
+- C#
+- .NET
+- ASP.NET MVC
+- REST API
 
----
+**Frontend**
+- JavaScript
+- React
+- HTML5
+- CSS3
 
-<h3>💡 İlgi Alanlarım:</h3>
-
-- Web & Mobil Uygulama Geliştirme
-- UI/UX Tasarımı
-- Yeni Teknolojiler Öğrenmek
-- Üretken Yapay Zeka (ChatGPT, GitHub Copilot, vs.)
-
----
-
-<h3>📈 GitHub İstatistikleri:</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimaydin1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimaydin1&theme=radical" alt="GitHub Streak" />
-</p>
+**Tools**
+- Git
+- GitHub
+- Visual Studio
 
 ---
 
-<h3 align="center">🌍 Languages</h3>
-<p align="center">
-  <b>🇹🇷 Türkçe (Ana dil)</b> | <b>🇬🇧 İngilizce (İleri düzey)</b>
-</p>
+## 📂 Featured Projects
+
+### 🛒 E-Commerce Web Application
+Full stack e-commerce web application developed with **ASP.NET MVC**.
+
+Features:
+- User authentication system
+- Product listing
+- Shopping cart
+- Admin panel
+
+---
+
+### 💱 Currency Exchange App
+React application showing real-time exchange rates using API integration.
+
+---
+
+### 🎵 Web Music Player
+Browser-based music player built with **JavaScript, HTML and CSS**.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimaydin1&show_icons=true)
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn  
+www.linkedin.com/in/ibrahim-aydın1  
+
+GitHub  
+https://github.com/ibrahimaydin1
+
+📧 Email  
+ibrahimaydinn38@gmail.com
